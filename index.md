@@ -8,3 +8,9 @@ Other random text
 
 ## Changes made
 I changed nothing, this is a tutorial
+
+## Adding the image
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
